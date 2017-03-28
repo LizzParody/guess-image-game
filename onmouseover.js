@@ -21,4 +21,3 @@ function reblur(eventObj) {
 }
 
 window.onload = init;
-
